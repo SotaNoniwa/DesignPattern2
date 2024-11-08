@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Decorator" />
         <module name="Strategy" />
+        <module name="Factory" />
         <module name="Observer" />
       </profile>
     </annotationProcessing>
