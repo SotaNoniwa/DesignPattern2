@@ -1,13 +1,9 @@
 package com.factories.simpleFactory;
 
-public class Client {
+// This is our Client
+public class BurgerShop {
 
-    public static void main(String[] args) {
-        Burger burger = orderBurger(BurgerType.VEGGIE);
-        System.out.println(burger);
-    }
-
-    public static Burger orderBurger(BurgerType type) {
+    public Burger orderBurger(BurgerType type) {
         // Factory is responsible for object creation
         Burger burger = SimpleBurgerFactory.createBurger(type);
 
