@@ -9,6 +9,7 @@
         <module name="Decorator" />
         <module name="Strategy" />
         <module name="Factory" />
+        <module name="Singleton" />
         <module name="Observer" />
       </profile>
     </annotationProcessing>
