@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Decorator/pom.xml" />
         <option value="$PROJECT_DIR$/Factory/pom.xml" />
         <option value="$PROJECT_DIR$/Singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/Command/pom.xml" />
       </list>
     </option>
   </component>
