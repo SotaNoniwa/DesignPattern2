@@ -1,4 +1,4 @@
-package com.command.simpleCommand;
+package com.command;
 
 public class Client {
 

@@ -1,4 +1,4 @@
-package com.command.simpleCommand;
+package com.command;
 
 // Null Object
 public class NoCommand implements Command {

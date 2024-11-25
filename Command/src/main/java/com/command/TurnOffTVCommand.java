@@ -1,4 +1,4 @@
-package com.command.simpleCommand;
+package com.command;
 
 // Concrete command
 public class TurnOffTVCommand implements Command {
