@@ -1,4 +1,4 @@
-package com.command;
+package com.commands.command;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package com.command;
+package com.commands.command;
 
 // Receiver
 public class OutdoorLight {

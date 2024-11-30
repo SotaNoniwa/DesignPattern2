@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/Factory/pom.xml" />
         <option value="$PROJECT_DIR$/Singleton/pom.xml" />
         <option value="$PROJECT_DIR$/Command/pom.xml" />
+        <option value="$PROJECT_DIR$/Adapter/pom.xml" />
       </list>
     </option>
   </component>

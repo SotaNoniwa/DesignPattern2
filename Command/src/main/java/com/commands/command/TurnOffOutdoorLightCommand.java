@@ -1,4 +1,4 @@
-package com.command;
+package com.commands.command;
 
 // Concrete command
 public class TurnOffOutdoorLightCommand implements Command {
