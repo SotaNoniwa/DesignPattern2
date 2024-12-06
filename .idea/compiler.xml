@@ -12,6 +12,7 @@
         <module name="Command" />
         <module name="Singleton" />
         <module name="Observer" />
+        <module name="Iterator" />
         <module name="Strategy" />
         <module name="Factory" />
         <module name="Adapter" />
