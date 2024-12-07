@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/Facade/pom.xml" />
         <option value="$PROJECT_DIR$/TemplateMethod/pom.xml" />
         <option value="$PROJECT_DIR$/Iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/Composite/pom.xml" />
       </list>
     </option>
   </component>

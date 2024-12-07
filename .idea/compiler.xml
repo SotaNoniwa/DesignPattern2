@@ -9,6 +9,7 @@
         <module name="Decorator" />
         <module name="TemplateMethod" />
         <module name="Facade" />
+        <module name="Composite" />
         <module name="Command" />
         <module name="Singleton" />
         <module name="Observer" />
