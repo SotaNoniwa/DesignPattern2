@@ -16,9 +16,9 @@ public class HRDepartment {
         Iterator listAIterator = listA.createIterator();
         Iterator listBIterator = listB.createIterator();
 
-        System.out.println("--- Employees in " + listA.getCompanyName() + " ---");
+        System.out.println("--- Employees from " + listA.getCompanyName() + " ---");
         printEmployee(listAIterator);
-        System.out.println("--- Employees in " + listB.getCompanyName() + " ---");
+        System.out.println("--- Employees from " + listB.getCompanyName() + " ---");
         printEmployee(listBIterator);
     }
 

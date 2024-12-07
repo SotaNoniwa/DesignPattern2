@@ -4,7 +4,7 @@ public class EmployeeListA implements EmployeeList{
 
     private String companyName;
     private String[] employees;
-    private int SIZE = 3;
+    private int SIZE = 5;
     private int index = 0;
 
     public EmployeeListA(String companyName) {
