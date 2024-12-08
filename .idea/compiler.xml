@@ -12,6 +12,7 @@
         <module name="Composite" />
         <module name="Command" />
         <module name="Singleton" />
+        <module name="State" />
         <module name="Observer" />
         <module name="Iterator" />
         <module name="Strategy" />
